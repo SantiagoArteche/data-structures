@@ -47,8 +47,6 @@ class LinkedList {
 
   reverseRecurseList(curr, prev = null) {
     if (curr === null) return prev;
-    console.log({ siguiente: curr.next });
-    console.log({ prev });
 
     const next = curr.next;
     curr.next = prev;
@@ -67,4 +65,3 @@ console.log("----");
 
 const reverseList = linkedList.reverseRecurseList(linkedList.head);
 linkedList.print(reverseList);
-// linkedList.print(reverseList);
