@@ -1,0 +1,15 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ll": "node linked-list/linked-list.js",
+    "rll": "node linked-list/recursive-linked-list.js",
+    "rvsll": "node linked-list/reverse-linked-list.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
