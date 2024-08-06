@@ -8,7 +8,8 @@
     "rll": "node linked-list/recursive-linked-list.js",
     "rvsll": "node linked-list/reverse-linked-list.js",
     "stack": "node stack/stack.js",
-    "queue": "node queue/queue.js"
+    "queue": "node queue/queue.js",
+    "btree": "node binary-tree/binary-tree.js"
   },
   "keywords": [],
   "author": "",
