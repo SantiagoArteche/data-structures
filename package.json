@@ -9,7 +9,9 @@
     "rvsll": "node linked-list/reverse-linked-list.js",
     "stack": "node stack/stack.js",
     "queue": "node queue/queue.js",
-    "btree": "node binary-tree/binary-tree.js"
+    "btree": "node binary-tree/binary-tree.js",
+    "graph": "node graph/graph.js",
+    "undgraph": "node graph/undirected-graph.js"
   },
   "keywords": [],
   "author": "",
